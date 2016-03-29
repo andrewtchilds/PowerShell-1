@@ -12,7 +12,7 @@
         -Running this in a 32 bit PowerShell session on a 64 bit computer will limit your results to 32 bit software and result in double entries in the results
 
 .PARAMETER ComputerName
-    One or more computers to pull software list from.
+    One or more asdfsfd to pull software list from.
 
 .PARAMETER DisplayName
     If specified, return only software with DisplayNames that match this parameter (uses -match operator)
